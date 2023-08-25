@@ -169,8 +169,7 @@ def change(x, y):
 
 
 
-
-
+title("Pacman Game")
 
 setup(420, 420, 370, 0)
 hideturtle()
